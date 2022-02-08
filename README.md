@@ -15,5 +15,6 @@ Cycle atau Siklus Promosi perusahaan tersebut. Beberapa data
 telah dikumpulkan oleh perusahaan baik itu data performansi
 lampau dan saat ini berdasarkan demografis.
 
+### Analisis ini memiliki beberapa bagian:
 
 
