@@ -1,5 +1,5 @@
 # Mengidentifikasi Faktor Dalam Menentukan Promosi Seorang Karyawan
-# Latar Belakang 
+## Latar Belakang 
 Sebuah Perusahaan e-commerce yang sedang bertumbuh
 memiliki 9 department di seluruh organisasi perusahaan, memiliki
 78.298 karyawan yang di bagikan menjadi 3 level, yaitu Senior,
